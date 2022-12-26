@@ -1,3 +1,3 @@
 # Live-CLock
 A live clock using javascript
-![image](https://user-images.githubusercontent.com/74610997/209573655-e9d87492-9c7f-4c4d-8bb5-d7f73944f0c4.png)
+![image](https://user-images.githubusercontent.com/74610997/209573689-86f43a6e-9fcb-4333-ae4e-eb1ef0aac765.png)
